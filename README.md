@@ -4,4 +4,4 @@ This repository serves as an example of integrating Next.js, a server-side rende
 
 # Analyze
 
-https://github.com/newerton/nextjs-material-ui-bundle-analyzer
+https://newerton.github.io/nextjs-material-ui-bundle-analyzer/
