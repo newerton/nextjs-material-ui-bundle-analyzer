@@ -16,7 +16,7 @@
     "@mui/material-nextjs": "^9.4.0",
     "@next/bundle-analyzer": "^16.3.4",
     "babel-plugin-react-compiler": "^19.1.0-rc.1-rc-af1b7da-20250421",
-    "next": "^16.3.4",
+    "next": "^16.4.0",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
   },
